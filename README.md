@@ -1,3 +1,4 @@
+
 # 🤖 AI Student Assistant
 
 An AI-powered study assistant for engineering students.
@@ -38,3 +39,7 @@ AI Response
 
 ```bash
 git clone YOUR_GITHUB_REPOSITORY_URL
+=======
+# AI-Student-Assistant-Yogini
+AI-powered study assistant using Python, Streamlit, Ollama and Llama 3.2
+
